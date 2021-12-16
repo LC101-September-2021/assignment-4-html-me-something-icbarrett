@@ -10,6 +10,7 @@ p2 {
     font-size: small;
     color: rgb(173, 167, 129)
 }
+
 #mainHeading {
     color: red;
     border: 1px solid black;
@@ -28,6 +29,7 @@ p2 {
     width: auto;
     height: 100px;
 }
+
 img:hover {
     box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
 }
